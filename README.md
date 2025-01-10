@@ -6,3 +6,5 @@ This project is currently published as a preprint at MedRxiv: https://doi.org/10
 Access to data from the NACC can be requested at naccdata.org
 
 All analyses were performed in R (version 4.3.1) and RStudio (version 2023.06.1+524)
+
+doi for version 1.01: 10.5281/zenodo.14629554
